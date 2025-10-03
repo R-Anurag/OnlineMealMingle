@@ -1,3 +1,5 @@
+### Open for Hacktoberfest 2025 ###
+
 # OnlineMealMingle
 ## Getting Started with Create React App
 
